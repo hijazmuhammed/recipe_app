@@ -1,0 +1,2 @@
+C:/Flutter Apps/recipe_app/android/app/.cxx/Debug/5652p3pv/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Flutter Apps/recipe_app/android/app/.cxx/Debug/5652p3pv/arm64-v8a/CMakeFiles/rebuild_cache.dir
